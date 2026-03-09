@@ -22,4 +22,4 @@ https://github.com/anjalisingroli/selenium-pytest-automation-framework
 
 ## Contact
 
-LinkedIn: (Add your LinkedIn here)
+LinkedIn: 
