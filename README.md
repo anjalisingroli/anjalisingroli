@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anjali Singroli 👋
 
-<!--
-**anjalisingroli/anjalisingroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🔍 Interested in Software Testing and Automation  
+⚙️ Skilled in Python, Selenium and Pytest  
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Selenium Pytest Automation Framework  
+Automation testing framework built using Python, Selenium and Pytest with Page Object Model.
+
+GitHub Repository:  
+https://github.com/anjalisingroli/selenium-pytest-automation-framework
+
+## Skills
+
+- Python
+- Selenium WebDriver
+- Pytest
+- HTML / CSS
+- Git & GitHub
+
+## Contact
+
+LinkedIn: (Add your LinkedIn here)
