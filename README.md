@@ -36,4 +36,4 @@ Git & GitHub
 
 📬 Contact
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: 
